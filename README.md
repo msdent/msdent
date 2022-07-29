@@ -1,6 +1,5 @@
 
-
-![Header](https://institute.careerguide.com/wp-content/uploads/2020/10/76da282fad5a3e279c6b163688f5345b.gif)
+<img src="http://institute.careerguide.com/wp-content/uploads/2020/10/76da282fad5a3e279c6b163688f5345b.gif" width="1280px" height="640px">
 
 
 <!--
