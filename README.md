@@ -1,5 +1,5 @@
 
-<img src="http://institute.careerguide.com/wp-content/uploads/2020/10/76da282fad5a3e279c6b163688f5345b.gif" width="950px" height="475px">
+<img src="http://institute.careerguide.com/wp-content/uploads/2020/10/76da282fad5a3e279c6b163688f5345b.gif" width="640px" height="320px">
 
 
 <!--
